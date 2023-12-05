@@ -1,27 +1,23 @@
-# EnsetApp
+#List Produits
+![Opera Snapshot_2023-12-05_222146_localhost](https://github.com/Achrafkadmiri/AngularActivi5/assets/95657794/4701653b-26e9-4b82-9a82-27d223d23d9d)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
+#Chercher un produit
+![Opera Snapshot_2023-12-05_222241_localhost](https://github.com/Achrafkadmiri/AngularActivi5/assets/95657794/b9992b36-57cb-4538-ad27-2c9582f8761c)
 
-## Development server
+#Suprimer un produit
+![Opera Snapshot_2023-12-05_222305_localhost](https://github.com/Achrafkadmiri/AngularActivi5/assets/95657794/d9802865-824f-4d46-9110-c06109b2e5e2)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![Opera Snapshot_2023-12-05_222330_localhost](https://github.com/Achrafkadmiri/AngularActivi5/assets/95657794/093ccb07-94a7-464e-9f49-c0748ec8beac)
 
-## Code scaffolding
+![Opera Snapshot_2023-12-05_222349_localhost](https://github.com/Achrafkadmiri/AngularActivi5/assets/95657794/e47d754d-67ff-43ff-a727-0d0d3abc8aa9)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+#Modifier un produit
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![Opera Snapshot_2023-12-05_222449_localhost](https://github.com/Achrafkadmiri/AngularActivi5/assets/95657794/25069e3e-1af4-4fd5-b52b-fe8374f31128)
 
-## Running unit tests
+![Opera Snapshot_2023-12-05_222511_localhost](https://github.com/Achrafkadmiri/AngularActivi5/assets/95657794/6d36f1c6-e400-4c88-afd7-f823a5f71e4f)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+#Ajouter un produit
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Opera Snapshot_2023-12-05_222526_localhost](https://github.com/Achrafkadmiri/AngularActivi5/assets/95657794/dad74151-9902-4dab-9d53-75d2700c017f)
